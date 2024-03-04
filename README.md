@@ -1,2 +1,2 @@
 # testrepo
-Repositorio de pruea para el curso GitHub Coursera
+Repositorio de prueba para el curso GitHub Coursera
